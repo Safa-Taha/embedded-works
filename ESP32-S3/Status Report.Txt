@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : PCB Document [ESP32-S3-USBC-v1.PcbDoc]
+   Generated File[Fabrication Testpoint Report for ESP32-S3-USBC-v1.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:26:20 PM On 7/24/2026

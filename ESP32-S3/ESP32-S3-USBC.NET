@@ -1,0 +1,220 @@
+PARTS LIST
+
+100nF, 50V        CAPC1005X55N    C1
+4.7nF, 16V        CAPC1005X55N    C2
+100nF, 50V        CAPC1005X55N    C3
+100nF, 50V        CAPC1005X55N    C4
+100nF, 50V        CAPC1005X55N    C5
+100nF, 50V        CAPC1005X55N    C6
+100nF, 50V        CAPC1005X55N    C7
+100nF, 50V        CAPC1005X55N    C8
+100nF, 50V        CAPC1005X55N    C9
+100nF, 50V        CAPC1005X55N    C10
+4.7nF, 16V        CAPC1005X55N    C11
+10uF, 10V         CAPC1005X55N    C12
+10uF, 10V         CAPC1005X55N    C13
+10uF, 10V         CAPC1005X55N    C14
+100nF, 50V        CAPC1005X55N    C15
+1uF, 35V          CAPC1005X55N    C16
+100nF, 50V        CAPC1005X55N    C17
+GREEN             LEDC1005X35N    D1
+RED               LEDC1005X35N    D2
+AQ3045-01ETG      SOD882          D3
+AQ3045-01ETG      SOD882          D4
+AQ3045-01ETG      SOD882          D5
+AQ3045-01ETG      SOD882          D6
+AQ3045-01ETG      SOD882          D7
+AQ3045-01ETG      SOD882          D8
+22-28-4245        HDR_1X24_2.54MM J1
+22-28-4245        HDR_1X24_2.54MM J2
+217179-0001       FP-2171790001-MFGJ3
+217179-0001       FP-2171790001-MFGJ4
+FTS-103-01-F-S    HDR_1X3_1.27MM  J5
+FTS-102-01-F-S    Deans Male      J6
+M50-1920005                       LINK1
+M50-1920005                       LINK2
+SS8050-G          FP-SS8050-G-IPC_BQ1
+SS8050-G          FP-SS8050-G-IPC_BQ2
+0 ohm             RESC1005X37N    R1
+0 ohm             RESC1005X37N    R2
+1kohm             RESC1005X37N    R3
+1kohm             RESC1005X37N    R4
+0 ohm             RESC1005X37N    R5
+27ohm             RESC1005X37N    R6
+27ohm             RESC1005X37N    R7
+0 ohm             RESC1005X37N    R8
+10kohm            RESC1005X37N    R9
+4.7kohm           RESC1005X37N    R10
+5.1kohm           RESC1005X37N    R11
+5.1kohm           RESC1005X37N    R12
+10kohm            RESC1005X37N    R13
+5.1kohm           RESC1005X37N    R14
+5.1kohm           RESC1005X37N    R15
+10kohm            RESC1005X37N    R16
+10kohm            RESC1005X37N    R17
+10kohm            RESC1005X37N    R18
+0 ohm             RESC1005X37N    R19
+0 ohm             RESC1005X37N    R20
+27ohm             RESC1005X37N    R21
+27ohm             RESC1005X37N    R22
+0 ohm             RESC1005X37N    R23
+0 ohm             RESC1005X37N    R24
+0 ohm             RESC1005X37N    R25
+0 ohm             RESC1005X37N    R26
+PTS645SH50SMTR92LFSFP-PTS645SH50SMTR92LFS-MFGSW1
+PTS645SH50SMTR92LFSFP-PTS645SH50SMTR92LFS-MFGSW2
+ESP32-S3-MINI-1-N8XCVR_ESP32-S3-MINI-1-N8U1
+FT231XQ-R         FP-QFN-20-IPC_B U2
+TL1963A-33DCYR    DCY0004A_N      U3
+EOS
+NET LIST
+
+NODENAME +3V3             $
+    C4         1  C5         1  C14        2  C15        1  J1         2  J2         1  J6         2  R2         1  R3         2  R4         2  R5         1  R17        2  U1         3
+NODENAME +3V3_REG         $
+    C12        2  C13        2  J6         1  U3         3
+NODENAME +5V              $
+    C9         1  C11        2  J1        22  J5         2  R1         1  U3         1
+NODENAME +5V_VBUS1        $
+    C1         1  D5         2  J3      A4B9  J3      B4A9  J5         1  R10        2
+NODENAME +5V_VBUS2        $
+    C10        1  D8         2  J4      A4B9  J4      B4A9  J5         3
+NODENAME +VCC_FTDI        $
+    C2         2  C3         1  R1         2  R2         2  U2        12
+NODENAME 3V3_FTDI         $
+    C6         1  C8         1  R5         2  R8         1  U2        10  U2        20
+NODENAME BTN_GPIO0        $
+    C17        1  Q2         3  R22        1  SW2        1  SW2        2
+NODENAME CHIP_PU          $
+    C16        2  J2         3  Q1         3  R17        1  SW1        1  SW1        2  U1        45
+NODENAME CON1_USB_N       $
+    D3         2  J3        A7  J3        B7  R6         1
+NODENAME CON1_USB_P       $
+    D4         2  J3        A6  J3        B6  R7         1
+NODENAME CON2_USB_N       $
+    D6         2  J4        A7  J4        B7  R23        2
+NODENAME CON2_USB_P       $
+    D7         2  J4        A6  J4        B6  R24        2
+NODENAME CON_ESP_USB_N    $
+    J2        21  R25        1
+NODENAME CON_ESP_USB_P    $
+    J2        20  R26        1
+NODENAME CON_GPIO0        $
+    J1         3  R21        1
+NODENAME DTR_FTDI         $
+    Q2         2  R16        1  U2        18
+NODENAME ESP_USB_N        $
+    R23        1  R25        2  U1        23
+NODENAME ESP_USB_P        $
+    R24        1  R26        2  U1        24
+NODENAME FTDI_RESET       $
+    C7         1  R8         2  U2        11
+NODENAME FTDI_USB_N       $
+    R6         2  U2         9
+NODENAME FTDI_USB_P       $
+    R7         2  U2         8
+NODENAME GND              $
+    C1         2  C2         1  C3         2  C4         2  C5         2  C6         2  C7         2  C8         2  C9         2  C10        2  C11        1  C12        1  C13        1  C14        1  C15        2  C16        1  C17        2  D1         1  D3         1  D4         1  D5         1  D6         1  D7         1  D8         1  J1         1  J1        23  J2         2  J2        24  J3     A1B12  J3     B1A12  J3        S1  J3        S2  J3        S3  J3        S4  J4     A1B12  J4     B1A12  J4        S1  J4        S2  J4        S3  J4        S4  R9         2  R11        2  R12        2  R13        1  R14        2  R15        2  SW1        3  SW1        4  SW2        3  SW2        4  U1         1  U1         2  U1        46  U1        47  U1        48  U1        49  U1        50  U1        51  U1        52  U1        53  U1        54  U1        55  U1        56  U1        57  U1        58  U1        59  U1        60  U1        61  U1        62  U1        63  U1        64  U1        65  U1        66  U1        67  U1        68  U1        69  U1        70  U1        71  U1        72  U1        73  U2         3  U2        13  U2        21  U3         2  U3         4
+NODENAME GPIO0            $
+    R21        2  R22        2  U1         4
+NODENAME GPIO1            $
+    J1         4  U1         5
+NODENAME GPIO2            $
+    D2         1  J1         5  U1         6
+NODENAME GPIO3            $
+    J1         6  U1         7
+NODENAME GPIO4            $
+    J1         7  U1         8
+NODENAME GPIO5            $
+    J1         8  U1         9
+NODENAME GPIO6            $
+    J1         9  U1        10
+NODENAME GPIO7            $
+    J1        10  U1        11
+NODENAME GPIO8            $
+    J1        11  U1        12
+NODENAME GPIO9            $
+    J1        12  U1        13
+NODENAME GPIO10           $
+    J1        13  U1        14
+NODENAME GPIO11           $
+    J1        14  U1        15
+NODENAME GPIO12           $
+    J1        15  U1        16
+NODENAME GPIO13           $
+    J1        16  U1        17
+NODENAME GPIO14           $
+    J1        17  U1        18
+NODENAME GPIO15           $
+    J1        18  U1        19
+NODENAME GPIO16           $
+    J1        19  U1        20
+NODENAME GPIO17           $
+    J1        20  U1        21
+NODENAME GPIO18           $
+    J1        21  U1        22
+NODENAME GPIO21           $
+    J2        19  U1        25
+NODENAME GPIO26           $
+    J2        18  U1        26
+NODENAME GPIO33           $
+    J2        17  U1        28
+NODENAME GPIO34           $
+    J2        16  U1        29
+NODENAME GPIO35           $
+    J2        15  U1        31
+NODENAME GPIO36           $
+    J2        14  U1        32
+NODENAME GPIO37           $
+    J2        13  U1        33
+NODENAME GPIO38           $
+    J2        12  U1        34
+NODENAME GPIO39           $
+    J2        11  U1        35
+NODENAME GPIO40           $
+    J2        10  U1        36
+NODENAME GPIO41           $
+    J2         9  U1        37
+NODENAME GPIO42           $
+    J2         8  U1        38
+NODENAME GPIO45           $
+    J2         5  U1        41
+NODENAME GPIO46           $
+    J2         4  U1        44
+NODENAME GPIO47           $
+    J2        23  U1        27
+NODENAME GPIO48           $
+    J2        22  U1        30
+NODENAME NetD1-2          $
+    D1         2  R3         1
+NODENAME NetD2-2          $
+    D2         2  R4         1
+NODENAME NetJ3_A5         $
+    J3        A5  R12        1
+NODENAME NetJ3_B5         $
+    J3        B5  R11        1
+NODENAME NetJ4_A5         $
+    J4        A5  R15        1
+NODENAME NetJ4_B5         $
+    J4        B5  R14        1
+NODENAME NetQ1-1          $
+    Q1         1  R16        2
+NODENAME NetQ2-1          $
+    Q2         1  R18        2
+NODENAME NetR9-1          $
+    R9         1  U2        15
+NODENAME NetR10-1         $
+    R10        1  R13        2  U2        16
+NODENAME NetU1-42         $
+    U1        42  U1        43
+NODENAME RTS_FTDI         $
+    Q1         2  R18        1  U2        19
+NODENAME RXD_FTDI         $
+    R19        2  U2         1
+NODENAME TXD_FTDI         $
+    R20        2  U2        17
+NODENAME U0RXD            $
+    J2         6  R20        1  U1        40
+NODENAME U0TXD            $
+    J2         7  R19        1  U1        39
+EOS

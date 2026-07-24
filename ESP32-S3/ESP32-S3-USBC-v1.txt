@@ -1,0 +1,84 @@
+Board Information Report
+Filename     : C:\Users\safan\OneDrive\Desktop\ESP32-S3\ESP32-S3-USBC-v1.PcbDoc
+Date         : 7/24/2026
+Time         : 5:00:47 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 2700milsx1000mils
+    Components on board, 64
+count : 2
+
+Routing Information
+    Routing completion, 98.14%
+    Connections, 215
+    Connections routed, 211
+    Connections remaining, 4
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    L1, 0, 238, 0, 688, 0, 0, 10, 0
+    L2, 0, 0, 0, 38, 0, 0, 7, 0
+    L3, 0, 0, 0, 4, 0, 0, 1, 0
+    L4, 0, 0, 0, 552, 0, 0, 0, 0
+    Mechanical 1, 0, 0, 0, 0, 1, 0, 0, 0
+    Board Shape, 0, 0, 0, 4, 0, 0, 0, 0
+    Top Assembly, 0, 0, 0, 28, 5, 0, 0, 0
+    Top 3D Body, 1, 0, 0, 219, 0, 0, 0, 62
+    Top Courtyard, 0, 0, 0, 218, 0, 0, 0, 0
+    Top Component Center, 0, 0, 0, 14, 0, 0, 0, 0
+    Bottom Assembly, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Courtyard, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom 3D Body, 0, 0, 0, 0, 0, 0, 0, 2
+    Bottom Component Center, 0, 0, 0, 0, 0, 0, 0, 0
+    Multi-Layer, 0, 61, 162, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 1, 1, 0
+    Top Overlay, 6, 0, 0, 272, 142, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 1, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 8, 56, 0, 21, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 0, 2, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 24
+
+Drill Pairs, Vias
+count : 0
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    L1, 0.722, 465.907, 27%
+    L2, 2.259, 1457.424, 84%
+    L3, 2.3, 1483.882, 85%
+    L4, 0.482, 311.27, 18%
+count : 4
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0mils, 0, 0
+    12mils, 0, 0
+    28mils, 0, 0
+    40mils, 0, 0
+count : 4
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+    55.118mil / 23.622mil, 0
+    70.866mil / 23.622mil, 0
+count : 2
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Pad Solder Mask, Count
+count : 0
+
+Via Solder Mask, Count
+count : 0
