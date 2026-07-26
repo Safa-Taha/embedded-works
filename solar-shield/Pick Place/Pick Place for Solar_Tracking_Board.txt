@@ -1,0 +1,36 @@
+Altium Designer Pick and Place Locations
+C:\Users\safan\OneDrive\Desktop\solar-shield\Pick Place\Pick Place for Solar_Tracking_Board.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       24/07/26
+Time:       20:56
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                     Layer    Footprint                            Center-X(mil) Center-Y(mil) Rotation Description                                                                                 
+J13        Conn_01x02_Female           TopLayer Pin_Header_Straight_1x02_Pitch2.54mm 5500.000      2135.886      0        "Through hole straight pin header, 1x02, 2.54mm pitch, single row"                          
+J11        Conn_01x02_Female           TopLayer Pin_Header_Straight_1x02_Pitch2.54mm 5280.000      2135.886      0        "Through hole straight pin header, 1x02, 2.54mm pitch, single row"                          
+J16        MOUNTING_HOLE               TopLayer MountingHole_3.2mm_M3_Pad            6401.200      2183.886      0        "Mounting Hole 3.2mm, M3"                                                                   
+J4         Stack-Header_01x08          TopLayer Pin_Header_Straight_1x08_Pitch2.54mm 4513.400      1323.786      0        "Through hole straight pin header, 1x08, 2.54mm pitch, single row"                          
+RV1        POT                         TopLayer Pin_Header_Straight_1x03_Pitch2.54mm 4915.700      294.986       0        "Through hole straight pin header, 1x03, 2.54mm pitch, single row"                          
+R4         10k                         TopLayer R_0805_HandSoldering                 6045.700      2196.836      270      "Resistor SMD 0805, hand soldering"                                                         
+R3         10k                         TopLayer R_0805_HandSoldering                 6175.700      2196.836      270      "Resistor SMD 0805, hand soldering"                                                         
+R2         10k                         TopLayer R_0805_HandSoldering                 5785.700      2196.836      270      "Resistor SMD 0805, hand soldering"                                                         
+R1         10k                         TopLayer R_0805_HandSoldering                 5920.700      2196.836      270      "Resistor SMD 0805, hand soldering"                                                         
+J17        ""                          TopLayer MountingHole_3.2mm_M3_Pad            5791.100      195.486       0        "Mounting Hole 3.2mm, M3"                                                                   
+J15        ""                          TopLayer MountingHole_3.2mm_M3_Pad            4688.400      195.886       0        "Mounting Hole 3.2mm, M3"                                                                   
+J14        MOUNTING_HOLE               TopLayer MountingHole_3.2mm_M3_Pad            4513.100      2183.086      0        "Mounting Hole 3.2mm, M3"                                                                   
+J12        Conn_01x03                  TopLayer Pin_Header_Straight_1x03_Pitch2.54mm 5990.700      1854.986      0        "Through hole straight pin header, 1x03, 2.54mm pitch, single row"                          
+J10        Conn_01x03                  TopLayer Pin_Header_Straight_1x03_Pitch2.54mm 6180.700      1854.986      0        "Through hole straight pin header, 1x03, 2.54mm pitch, single row"                          
+J9         Screw_Terminal_01x02        TopLayer TerminalBlock_bornier-2_P5.08mm      6196.400      2582.086      0        "simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2"                   
+J8         ""                          TopLayer Pin_Header_Straight_1x08_Pitch2.54mm 6399.800      622.886       0        "Through hole straight pin header, 1x08, 2.54mm pitch, single row"                          
+J7         Stack-Header_01x10          TopLayer Pin_Header_Straight_1x10_Pitch2.54mm 6398.900      1584.286      0        "Through hole straight pin header, 1x10, 2.54mm pitch, single row"                          
+J6         Screw_Terminal_01x02        TopLayer TerminalBlock_bornier-2_P5.08mm      5768.200      2582.286      0        "simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2"                   
+J5         Screw_Terminal_01x02        TopLayer TerminalBlock_bornier-2_P5.08mm      5308.600      2584.186      0        "simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2"                   
+J3         ""                          TopLayer Pin_Header_Straight_1x06_Pitch2.54mm 4513.200      524.486       0        "Through hole straight pin header, 1x06, 2.54mm pitch, single row"                          
+J2         Conn_02x03_Odd_Even         TopLayer Pin_Header_Straight_2x03_Pitch2.54mm 4800.700      2049.986      270      "Through hole straight pin header, 2x03, 2.54mm pitch, double rows"                         
+J1         Barrel_Jack                 TopLayer Barrel_Jack_CUI_PJ-102AH             4623.580      2426.575      180      "Thin-pin DC Barrel Jack, https://cdn-shop.adafruit.com/datasheets/21mmdcjackDatasheet.pdf" 
+ICSP1      Stack-Header_02x03_Odd_Even TopLayer Pin_Header_Straight_2x03_Pitch2.54mm 5285.000      360.000       270      "Through hole straight pin header, 2x03, 2.54mm pitch, double rows"                         
