@@ -1,0 +1,12 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\STM32_Board-main\STM32_Board-main\Dual-MCU-control-board.PrjPcb
+[Project2]
+ProjectPath=..\..\..\Downloads\ESP32-WROOM-32E-N8\ESP32-WROOM-32E-N8.LibPkg
+[Project3]
+ProjectPath=..\..\..\Downloads\ESP32-WROOM-32E-N81\ESP32-WROOM-32E-N8.LibPkg
+[Project4]
+ProjectPath=..\..\..\Downloads\SST25PF040C-40I_MF\SST25PF040C-40I_MF.LibPkg
+[Project5]
+ProjectPath=..\USBC-charger-module\USBC-charging-module.PrjPcb

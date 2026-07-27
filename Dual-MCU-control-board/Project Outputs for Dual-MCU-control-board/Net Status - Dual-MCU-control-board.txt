@@ -1,0 +1,77 @@
+Net Status Report
+Filename     : C:\Users\safan\OneDrive\Desktop\STM32_Board-main\STM32_Board-main\Dual-MCU-control-board.PcbDoc
+Date         : 7/27/2026
+Time         : 2:37:57 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    +3V3, Signal Layers Only, 420.0876mm
+    +5V, Signal Layers Only, 38.7939mm
+    +5V_VBUS1, Signal Layers Only, 71.8183mm
+    +VCC_FTDI, Signal Layers Only, 88.0011mm
+    3V3_FTDI, Signal Layers Only, 101.3819mm
+    BOOT0, Signal Layers Only, 64.0403mm
+    BTN_GPIO0, Signal Layers Only, 10.9657mm
+    CHIP_PU, Signal Layers Only, 150.2496mm
+    CON1_USB_N, Signal Layers Only, 74.9876mm
+    CON1_USB_P, Signal Layers Only, 52.0056mm
+    DTR_FTDI, Signal Layers Only, 38.9261mm
+    FTDI_RESET, Signal Layers Only, 44.4534mm
+    FTDI_USB_N, Signal Layers Only, 54.6018mm
+    FTDI_USB_P, Signal Layers Only, 1.6904mm
+    GND, Signal Layers Only, 531.3525mm
+    GPIOA0, Signal Layers Only, 36.6647mm
+    GPIOA1, Signal Layers Only, 35.2429mm
+    GPIOA2/TX2, Signal Layers Only, 43.7191mm
+    GPIOA3/RX2, Signal Layers Only, 31.2026mm
+    GPIOA4, Signal Layers Only, 38.1127mm
+    GPIOA5/SCK1, Signal Layers Only, 86.7401mm
+    GPIOA6/MISO1, Signal Layers Only, 73.7473mm
+    GPIOA7/MOSI1, Signal Layers Only, 89.3776mm
+    GPIOA8/SCL3, Signal Layers Only, 76.9803mm
+    GPIOB0, Signal Layers Only, 47.4261mm
+    GPIOB1, Signal Layers Only, 53.0125mm
+    GPIOB2, Signal Layers Only, 41.1142mm
+    GPIOB4/SDA3, Signal Layers Only, 6.799mm
+    GPIOB5, Signal Layers Only, 52.5206mm
+    GPIOB6/SCL1, Signal Layers Only, 39.9904mm
+    GPIOB7/SDA1, Signal Layers Only, 44.5801mm
+    GPIOB8, Signal Layers Only, 33.6557mm
+    GPIOB9, Signal Layers Only, 43.1573mm
+    LED Anode, Signal Layers Only, 38.2243mm
+    LED Cathode, Signal Layers Only, 34.2054mm
+    MCU OSC IN, Signal Layers Only, 32.341mm
+    MCU OSC OUT, Signal Layers Only, 58.6416mm
+    NRST, Signal Layers Only, 88.6153mm
+    NetB3_1, Signal Layers Only, 8.6586mm
+    NetB3_3, Signal Layers Only, 14.6031mm
+    NetB5_15, Signal Layers Only, 25.3513mm
+    NetB5_16, Signal Layers Only, 60.3236mm
+    NetC21_2, Signal Layers Only, 59.6879mm
+    NetC3_1, Signal Layers Only, 66.8387mm
+    NetC4_1, Signal Layers Only, 66.9969mm
+    NetD11_2, Signal Layers Only, 6.6334mm
+    NetD2_1, Signal Layers Only, 2.8165mm
+    NetD3_2, Signal Layers Only, 28.361mm
+    NetIC1_17, Signal Layers Only, 20.725mm
+    NetIC1_25, Signal Layers Only, 3.159mm
+    NetJ2_A5, Signal Layers Only, 4.2443mm
+    NetJ2_B5, Signal Layers Only, 5.3714mm
+    NetJ3_A5, Signal Layers Only, 31.3005mm
+    NetJ3_B5, Signal Layers Only, 12.946mm
+    NetQ1_1, Signal Layers Only, 14.0087mm
+    NetQ2_1, Signal Layers Only, 54.5713mm
+    NetR8_1, Signal Layers Only, 14.2452mm
+    RTS_FTDI, Signal Layers Only, 48.1745mm
+    RXD_FTDI, Signal Layers Only, 20.345mm
+    SWCLK, Signal Layers Only, 25.4mm
+    SWDIO, Signal Layers Only, 38.6242mm
+    SWO, Signal Layers Only, 34.3679mm
+    TXD_FTDI, Signal Layers Only, 24.9951mm
+    USART_RX1, Signal Layers Only, 56.8909mm
+    USART_TX1, Signal Layers Only, 61.9258mm
+    USB_D_N, Signal Layers Only, 2.5627mm
+    USB_D_P, Signal Layers Only, 47.4452mm
+    VBUS, Signal Layers Only, 63.0313mm
+    VCAP1, Signal Layers Only, 3.8143mm
+count : 69

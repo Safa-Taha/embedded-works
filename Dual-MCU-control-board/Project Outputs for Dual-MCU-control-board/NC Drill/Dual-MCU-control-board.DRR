@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Dual-MCU-control-board.PcbDoc   7/27/2026  2:53:07 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 SIGNAL to L4 SIGNAL
+ASCII RoundHoles File : Dual-MCU-control-board-RoundHoles.TXT
+ASCII SlotHoles File : Dual-MCU-control-board-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             126       PTH        0.00inch (0.00mm)
+T2      24mil (0.6mm)                                             Slot              8         PTH        0.00inch (0.00mm)
+T3      28mil (0.7mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T4      35mil (0.9mm)                                             Round             20        PTH        0.00inch (0.00mm)
+T5      43mil (1.1mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T6      42mil (1.067mm)                                           Round             3         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              163
+
+Total Processing Time (hh:mm:ss) : 00:00:01
