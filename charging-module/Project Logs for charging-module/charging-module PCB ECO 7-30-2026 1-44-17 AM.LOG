@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=R12 Old Footprint=SMD-1206-RES New Footprint=R0402
+Change Component Footprint: Designator=R14 Old Footprint=SMD-1206-RES New Footprint=R0402
+Added Room: Name=charging-module

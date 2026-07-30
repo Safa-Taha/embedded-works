@@ -1,0 +1,48 @@
+Altium Designer Pick and Place Locations
+C:\Users\safan\OneDrive\Desktop\charging-module\.\Pick Place\Pick Place for charging-module.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       30/07/26
+Time:       10:54
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment            Layer    Footprint                         Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                                     
+U2         DMG3415U-7         TopLayer SOT95P240X105-3N                  1545.000      465.000       180      "MOSFET P-Channel 20V 4A SOT23"                                                                                                                 
+R18        100k               TopLayer SMD-0603-RES                      1435.000      540.000       0        "RES SMD 100K OHM 1% 1/10W 0603"                                                                                                                
+R17        100k               TopLayer SMD-0603-RES                      1605.000      310.000       0        "RES SMD 100K OHM 1% 1/10W 0603"                                                                                                                
+R15        10k                TopLayer SMD-0201-RES                      1614.252      710.000       180      "RES SMD 10K OHM 1% 1/20W 0201"                                                                                                                 
+Q1         2N7002BKW,115      TopLayer SC70_SOT323                       1495.000      180.000       270      "MOSFET N-CH 60V 310MA SOT323"                                                                                                                  
+D5         B560C-13-F         TopLayer SMC                               215.000       360.000       270      "DIODE SCHOTTKY 60V 5A SMC"                                                                                                                     
+J3         217183-0001        TopLayer 2171830001                        1300.000      922.638       180      "Connector USB Type C Hybrid Female 24Positions 0.5mm Right Angle Through Hole Embossed T/R"                                                    
+R1         750k               TopLayer SMD-0402-RES                      770.000       210.000       180      "RES SMD 750K OHM 1% 1/10W 0402"                                                                                                                
+R13        56k                TopLayer SMD-0402-RES                      125.000       615.000       270      "RES SMD 56K OHM 5% 1/10W 0402"                                                                                                                 
+R11        56k                TopLayer SMD-0402-RES                      220.000       615.000       90       "RES SMD 56K OHM 5% 1/10W 0402"                                                                                                                 
+J2         217183-0001        TopLayer 2171830001                        420.000       927.638       180      "Connector USB Type C Hybrid Female 24Positions 0.5mm Right Angle Through Hole Embossed T/R"                                                    
+U1         PAM2401YPADJ       TopLayer SON45P300X300X63-13N              975.000       185.000       360      "Boost Switching Regulator IC Positive Adjustable 2.5V 1 Output 1A 12-UFDFN Exposed Pad"                                                        
+S1         450301014042       TopLayer 450301014042                      1710.000      290.000       90       ""                                                                                                                                              
+R14        5.1k               TopLayer R0402                             1185.315      655.000       180      "RES SMD 5.1K OHM 1% 1/4W 1206"                                                                                                                 
+R12        5.1k               TopLayer R0402                             1285.000      655.000       180      "RES SMD 5.1K OHM 1% 1/4W 1206"                                                                                                                 
+R10        49.9k              TopLayer SMD-0603-RES                      420.000       155.000       90       "RES SMD 49.9K OHM 1% 1/10W 0603"                                                                                                               
+R9         49.9k              TopLayer SMD-0603-RES                      1645.000      1035.000      90       "RES SMD 49.9K OHM 1% 1/10W 0603"                                                                                                               
+R8         4.7k               TopLayer SMD-0603-RES                      1010.000      380.000       180      "RES SMD 4.7K OHM 1% 1/10W 0603"                                                                                                                
+R7         100k               TopLayer SMD-0603-RES                      1645.000      785.000       90       "RES SMD 100K OHM 1% 1/10W 0603"                                                                                                                
+R6         75k                TopLayer SMD-0603-RES                      1644.488      945.000       270      "RES SMD 75K OHM 1% 1/10W 0603"                                                                                                                 
+R5         750k               TopLayer SMD-0402-RES                      1632.000      865.000       270      "RES SMD 750K OHM 1% 1/10W 0402"                                                                                                                
+R4         75k                TopLayer SMD-0603-RES                      420.000       250.000       90       "RES SMD 75K OHM 1% 1/10W 0603"                                                                                                                 
+R3         2k2                TopLayer R0402                             1190.001      235.000       360      "RES 2.20K OHM 1/16W 1% 0402 SMD"                                                                                                               
+R2         1k                 TopLayer R0402                             1175.315      445.000       360      "RES 1.00K OHM 1/16W 1% 0402 SMD"                                                                                                               
+L1         Inductor           TopLayer 0402-A                            789.686       280.000       360      Inductor                                                                                                                                        
+J1         S2B-PH-K-S_LF__SN_ TopLayer SHDRRA2W50P0X200_1X2_590X760X480P 1919.370      340.000       180      "PH-2.0mm Header side entry 2 way JST PH Series, Series Number S2B, 2mm Pitch 2 Way 1 Row Right Angle PCB Header, Through Hole Termination, 2A" 
+D4         B560C-13-F         TopLayer SMC                               870.000       810.000       90       "DIODE SCHOTTKY 60V 5A SMC"                                                                                                                     
+D3         B560C-13-F         TopLayer SMC                               555.000       460.000       180      "DIODE SCHOTTKY 60V 5A SMC"                                                                                                                     
+D2         Red                TopLayer LED_0603                          980.000       485.000       180      "LED SMARTLED RED 630NM 0603 SMD"                                                                                                               
+D1         Green              TopLayer LED_0603                          1298.504      450.000       180      "LED SMARTLED GREEN 570NM 0603"                                                                                                                 
+C4         22µF               TopLayer SMD-1206C                         850.000       430.000       180      "CAP CER 22UF 16V X5R 1206"                                                                                                                     
+C3         4.7µF              TopLayer SMD-0603C                         1430.000      334.488       360      "CAP CER 4.7UF 10V X5R 0603"                                                                                                                    
+C2         4.7µF              TopLayer SMD-0603C                         1155.000      335.000       360      "CAP CER 4.7UF 10V X5R 0603"                                                                                                                    
+C1         22µF               TopLayer SMD-1206C                         670.000       145.000       180      "CAP CER 22UF 16V X5R 1206"                                                                                                                     
+B1         MCP73831T-2ATI_OT  TopLayer SOT95P270X145-5N                  1290.788      330.000       180      "Microchip MCP73831T-2ATI/OT, Battery Charge Controller Lithium-Ion/Polymer, 500mA, 5-pin SOT-23"                                               
