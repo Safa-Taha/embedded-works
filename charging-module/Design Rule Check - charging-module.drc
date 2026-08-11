@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\safan\OneDrive\Desktop\embedded-works\charging-module\charging-module.PcbDoc
-Date     : 8/5/2026
-Time     : 8:54:55 PM
+Date     : 8/10/2026
+Time     : 1:30:55 PM
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
@@ -21,10 +21,10 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=4.9mil) (Max=20mil) (Preferred=15mil) (InNet('+5'))
+Processing Rule : Width Constraint (Min=4.9mil) (Max=50mil) (Preferred=15mil) (InNet('+5'))
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=5mil) (Max=20mil) (Preferred=15mil) (InNet('5VIN'))
+Processing Rule : Width Constraint (Min=5mil) (Max=40mil) (Preferred=15mil) (InNet('5VIN'))
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=4.5mil) (Max=10mil) (Preferred=7mil) (All)
