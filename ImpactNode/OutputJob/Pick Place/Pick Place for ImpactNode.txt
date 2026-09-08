@@ -1,0 +1,55 @@
+Altium Designer Pick and Place Locations
+C:\Users\safan\OneDrive\Desktop\embedded-works\ImpactNode\OutputJob\Pick Place\Pick Place for ImpactNode.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       08/09/26
+Time:       19:15
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment         Layer    Footprint         Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                                  
+R2         1kohm           TopLayer R0402             3426.181      2675.197      0        "RES 1K OHM 1% 1/16W 0402"                                                                                                                   
+D5         GREEN           TopLayer LED_0603          3435.039      2775.590      270      "Single Color LED, Yellow Green, 0.5mm"                                                                                                      
+LS1        buzzer          TopLayer PIN2              3778.544      2806.300      90       Buzzer                                                                                                                                       
+IC1        Adafruit_BMP280 TopLayer AdafruitBMP280    2757.874      3102.756      90       "Adafruit BMP280 Barometric Pressure + Temperature Sensor Breakout"                                                                          
+R4         5K1             TopLayer RESC1005X37N      4366.142      2918.308      90       "Res Thick Film 0402 5.1K Ohm 1% 0.063W(1/16W) ±100ppm/C Pad SMD Automotive T/R"                                                             
+R3         5K1             TopLayer RESC1005X37N      4368.110      3498.032      270      "Res Thick Film 0402 5.1K Ohm 1% 0.063W(1/16W) ±100ppm/C Pad SMD Automotive T/R"                                                             
+J1         217179-0001     TopLayer FP-2171790001-MFG 4360.729      3209.646      90       "USB Connector, USB Type C, USB 2.0, Receptacle, 16 Ways, Surface Mount, Through Hole Mount"                                                 
+D3         AQ3045-01ETG    TopLayer SOD882            4110.236      3295.276      0        "Bi 30Kv 5V 0.35Pf Automotve Tvs Sod882/ T&r Rohs Compliant: Yes |Littelfuse AQ3045-01ETG"                                                   
+D2         AQ3045-01ETG    TopLayer SOD882            4110.236      3164.370      0        "Bi 30Kv 5V 0.35Pf Automotve Tvs Sod882/ T&r Rohs Compliant: Yes |Littelfuse AQ3045-01ETG"                                                   
+D1         AQ3045-01ETG    TopLayer SOD882            4097.441      3062.992      180      "Bi 30Kv 5V 0.35Pf Automotve Tvs Sod882/ T&r Rohs Compliant: Yes |Littelfuse AQ3045-01ETG"                                                   
+C1         "100nF, 50V"    TopLayer CAPC1005X55N      4096.457      3009.842      180      "CAP CER 0.1UF 50V X7R 0402"                                                                                                                 
+X1         24MHz           TopLayer XTAL_3225         3400.591      3024.606      0        "Crystal SMD 24MHz 10PPM 7pF 3225"                                                                                                           
+U1         MPU-6050        TopLayer IS-QFN-24_V       3474.410      3543.307      270      "3-Axis Gyroscope, Accelerometer and a Digital Motion Processor(TM) (DMP), 2.375 to 3.46 V, -40 to 85 degC, 24-Pin QFN, RoHS, Tape and Reel" 
+U3         STM32F411CEU6   TopLayer STM-UFQFPN48_L    3742.226      3190.740      0        "ARM Cortex-M4 32-bit MCU+FPU, 512 KB Flash, 128 KB RAM, 36 I/Os, 48-Pin UFQFPN, -40 to 85 degC, Tray"                                       
+U2         ams1117         TopLayer FP-ams1117-IPC_C  4094.488      2706.693      270      "1A LOW DROPOUT VOLTAGE REGULATOR"                                                                                                           
+R11        10k             TopLayer RES_0402          3710.630      3464.567      270      "Resistor SMD 0402"                                                                                                                          
+R10        0R              TopLayer RES_0402          3467.519      3162.402      0        "Resistor SMD 0402 0R"                                                                                                                       
+R9         10k             TopLayer RES_0402          4025.591      3641.732      0        "Resistor SMD 0402"                                                                                                                          
+R8         1k              TopLayer RES_0402          3956.693      3041.338      0        "Resistor SMD 0402"                                                                                                                          
+R6         2k2             TopLayer RES_0402          3720.473      3533.464      180      "Resistor SMD 0402"                                                                                                                          
+R5         2k2             TopLayer RES_0402          3799.213      3533.464      0        "Resistor SMD 0402"                                                                                                                          
+R7         1k              TopLayer RES_0402          4389.764      2765.748      270      "Resistor SMD 0402"                                                                                                                          
+J2         SM06B-GHS-TB    TopLayer HDR1X6            3747.440      2485.378      0        "Header Connector 6 Position 1.25MM Pitch SMD Horizontal JST GH"                                                                             
+J3         TC2030-NL       TopLayer TC2030-NL-FP      3996.064      3533.464      180      "Tag-Connect No-Solder SWD Debug Connector (No Legs) DO NOT PLACE"                                                                           
+D7         RED             TopLayer LED_0402_RED      3956.693      3100.394      0        "LED 0402 RED SMD"                                                                                                                           
+D6         GREEN           TopLayer LED_0402_GREEN    4389.764      2677.165      90       "LED 0402 GREEN SMD"                                                                                                                         
+C19        100n            TopLayer CAP_0402          3641.733      3385.826      180      "Capacitor SMD 0402"                                                                                                                         
+C5         100n            TopLayer CAP_0402          3442.913      3400.590      180      "Capacitor SMD 0402"                                                                                                                         
+C18        100n            TopLayer CAP_0402          3937.008      3311.023      90       "Capacitor SMD 0402"                                                                                                                         
+C17        100n            TopLayer CAP_0402          3872.047      2996.064      0        "Capacitor SMD 0402"                                                                                                                         
+C16        100n            TopLayer CAP_0402          3547.244      3120.079      270      "Capacitor SMD 0402"                                                                                                                         
+C15        100n            TopLayer CAP_0402          3543.308      3278.543      90       "Capacitor SMD 0402"                                                                                                                         
+C14        2u2             TopLayer CAP_0603          3494.094      3277.559      90       "Capacitor SMD 0603"                                                                                                                         
+C4         2n2             TopLayer CAP_0402          3612.204      3487.205      90       "Capacitor SMD 0402 16V"                                                                                                                     
+C3         100n            TopLayer CAP_0402          3332.678      3595.473      90       "Capacitor SMD 0402 16V"                                                                                                                     
+C2         100n            TopLayer CAP_0402          3335.630      3514.763      90       "Capacitor SMD 0402 16V"                                                                                                                     
+C13        10p             TopLayer CAP_0402          3467.519      3113.190      180      "Capacitor SMD 0402 16V"                                                                                                                     
+C12        10p             TopLayer CAP_0402          3371.063      3113.188      0        "Capacitor SMD 0402 16V"                                                                                                                     
+C11        100n            TopLayer CAP_0402          3937.007      3641.732      0        "Capacitor SMD 0402"                                                                                                                         
+C10        2u2             TopLayer CAP_0603          3775.591      2992.126      0        "Capacitor SMD 0603"                                                                                                                         
+C7         22u             TopLayer CAP_0805          4301.182      2706.694      270      "Capacitor SMD 0805 16V"                                                                                                                     
+C6         22u             TopLayer CAP_0805          4094.488      2933.070      180      "Capacitor SMD 0805 16V"                                                                                                                     
