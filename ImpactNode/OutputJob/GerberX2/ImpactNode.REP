@@ -1,3 +1,546 @@
 *************************************************************
 FileName = ImpactNode.GBR
 AutoAperture = True
+*************************************************************
+Generating : L1 (SIgnal)
+      File : ImpactNode_Copper_Signal_Top.gbr
+
+    Adding Layer      : L1 (SIgnal)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : L2 (GND)
+      File : ImpactNode_Copper_Signal_1.gbr
+
+    Adding Layer      : L2 (GND)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D45
+    D46
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : L3 (GND)
+      File : ImpactNode_Copper_Signal_2.gbr
+
+    Adding Layer      : L3 (GND)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D45
+    D46
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : L4 (SIgnal)
+      File : ImpactNode_Copper_Signal_Bot.gbr
+
+    Adding Layer      : L4 (SIgnal)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D36
+    D38
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : ImpactNode_Pads_Bot.gbr
+
+    Adding Layer      : L4 (SIgnal)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : ImpactNode_Pads_Top.gbr
+
+    Adding Layer      : L1 (SIgnal)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : ImpactNode_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : L4 (SIgnal)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ImpactNode_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : ImpactNode_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : L4 (SIgnal)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ImpactNode_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D55
+    D69
+    D70
+    D71
+    D72
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : ImpactNode_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : L1 (SIgnal)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : ImpactNode_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : L1 (SIgnal)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D20
+    D21
+    D45
+    D56
+    D57
+    D58
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : ImpactNode_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : ImpactNode_Mechanical_24.gbr
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 4
+      File : ImpactNode_Mechanical_4.gbr
+
+    Adding Layer      : Mechanical 4
+
+
+Used DCodes :
+    D69
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : ImpactNode_Mechanical_21.gbr
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 29
+      File : ImpactNode_Mechanical_29.gbr
+
+    Adding Layer      : Mechanical 29
+
+
+Used DCodes :
+    D69
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : ImpactNode_Mechanical_20.gbr
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : ImpactNode_Mechanical_2.gbr
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D55
+    D95
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : ImpactNode_Mechanical_16.gbr
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D69
+    D73
+    D96
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : ImpactNode_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : ImpactNode_Mechanical_23.gbr
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : ImpactNode_Mechanical_15.gbr
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D55
+    D69
+    D97
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : ImpactNode_Mechanical_13.gbr
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D69
+    D72
+    D73
+    D96
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 6
+      File : ImpactNode_Mechanical_6.gbr
+
+    Adding Layer      : Mechanical 6
+
+
+Used DCodes :
+    D69
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : ImpactNode_Mechanical_5.gbr
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : ImpactNode_Profile.gbr
+
+
+Used DCodes :
+    D98
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : ImpactNode_NPTH_Drill.gbr
+
+
+Used DCodes :
+    D99
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : ImpactNode_PTH_Drill.gbr
+
+
+Used DCodes :
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : ImpactNode_Drawing_1.gbr
+
+    Adding Drill Pair : L1 (SIgnal)-L4 (SIgnal)
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D95
+    D115
+    D116
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : ImpactNode_Drillmap_1.gbr
+
+    Adding Drill Pair : L1 (SIgnal)-L4 (SIgnal)
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D95
+*************************************************************
+

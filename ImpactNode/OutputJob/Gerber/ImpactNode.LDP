@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\safan\OneDrive\Desktop\embedded-works\ImpactNode\ImpactNode.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=impactnode-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=impactnode-slotholes.txt|DrillLayers=gtl,g1,g2,gbl
