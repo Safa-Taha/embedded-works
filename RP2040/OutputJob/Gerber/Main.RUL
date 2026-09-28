@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\safan\OneDrive\Desktop\RP2040-PCB-Microcontroller-Board-main_2\RP2040-PCB-Microcontroller-Board-main\Jakub_Staudt_RP2040_Controller Project\Main.PcbDoc
+RuleKind=Width|RuleName=3V3|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=+1V1|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.76
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
